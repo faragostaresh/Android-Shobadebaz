@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shobadebaz</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="fixaddress">info@shobadebaz.com</string>
+    <string name="header">هدر تست</string>
+    <string name="faragostaresh">فراگسترش</string>
+    <string name="getid">ID : </string>
+    
+    <string name="about_us_list">درباره ما</string>
+    <string name="contact_us_list">تماس با ما</string>
+    <string name="video_list">ویدیو های آموزشی</string>
+    <string name="audio_list">موزیک اجرا</string>
+    <string name="vip_list">بخش ویژه</string>
+    <string name="book_list">کتاب های آموزشی</string>
+    <string name="people_list">معرفی شعبده بازان</string>
+    <string name="help_list">شروع شعبده بازی</string>
+    <string name="article_list">مقالات آموزشی</string>
+    
+    <string name="about_us_text_1">وب سایت شعبده باز ، اولین و کاملترین مرکز آموزش هنر شعبده بازی بصورت آنلاین در ایران می باشد. نام شعبده باز برگرفته از اسم هنر زیبای شعبده بازی برای این سایت انتخاب شده است . سایت با دارا بودن کاملترین بانک فیلم های آموزشی و ارائه وسایل حرفه ای شعبده بازی توانسته به یک مرکز و فروشگاه کاملا حرفه ای در دنیای مجازی وب در این زمینه تبدیل گردد . وب سایت شعبده باز تشکیل شده از چند فعال و علاقمند در این رشته هنری که البته گردهمایی این علاقمندان منجر به راه اندازی این مرکز هنری بدل گشته است . البته این تیم علاقمند زیر نظر یکی از شعبده بازان خوب کشورمان مدیریت شده و امید است باآموزش این هنر علمی ، قدمی بزرگ در جهت پیشرفت و عملکرد بهتر هنر آموزان این رشته هنری برداریم . شعبده بازی مانند تمام هنرها مثل سینما و موسیقی یک هنر ظریف و پیچیده است که علاوه بر هنری بودن آن یک حرفه نیز می باشد که با آمیخته شدن این دو بسیار زیبا و جذابتر خواهد شد و ما برای تمامی هنرمندان و هنرآموزان این رشته هنری آرزوی موفقیت می کنیم. </string>
+    <string name="about_us_text_2">با توجه به افزایش استفاده از تلفن های هوشمند و تبلت ها، و امکان ارائه نرم افزار های کاربردی در این زمینه. تیم شعبده باز اقدام به تولید نرم افزار تخصصی شعبده بازی نموده است، در اولین نسخه این نرم افزار علاوه بر معرفی شعبده بازان ، اطلاعات آموزشی هم در اختیار کاربران قرار میگیرد. در نسخه های بعدی امکان دنبال کردن جدید ترین اخبار شعبده بازی و خرید ابزار مورد نیاز در نرم افزار پیش بینی میشود</string>
+    <string name="about_us_text_3">پیاده سازی و توسعه وب سایت و نرم افزار تحت وب شعبده باز توسط فراگسترش به انجام رسیده است</string>
+    
+    <string name="btnsend">ارسال</string>
+    <string name="subject">موضوع</string>
+    <string name="name">نام</string>
+    <string name="email">ایمیل</string>
+    <string name="message">پیام</string>
+    
+    <string name="file_cat_1">V.I.P Magic Movie</string>
+    <string name="file_cat_2">V.I.P Magic Book</string>
+    <string name="file_cat_3">V.I.P Magic Music</string>
+    <string name="file_cat_4">Penguin Live</string>
+    <string name="file_cat_5">Criss Angel Live</string>
+    <string name="file_cat_6">Essential Magic Conference</string>
+    <string name="file_cat_7">Ring | حلقه</string>
+    <string name="file_cat_8">Bar Tricks | رستوران</string>
+    <string name="file_cat_9">Bill | اسکناس</string>
+    <string name="file_cat_10">Card | کارت</string>
+    <string name="file_cat_11">Close-Up | محفلی</string>
+    <string name="file_cat_12">Coin | سکه</string>
+    <string name="file_cat_13">Illusion | حرفه ای ها</string>
+    <string name="file_cat_14">Levitation | پرواز</string>
+    <string name="file_cat_15">Mentalism | ذهن خوانی</string>
+    <string name="file_cat_16">Rope | طناب</string>
+    
+    <string name="help_1">شعبده باز کیست؟</string>
+	<string name="help_2">وسایل شعبده بازی مخصوص هستند؟</string>
+	<string name="help_3">هنر شعبده بازی چیست؟</string>
+	<string name="help_4">آموزش شعبده بازی چگونه است؟</string>
+	<string name="help_5">چرا آموزش تصویری؟</string>
+	<string name="help_6">وب سایت شعبده باز</string>
+	<string name="help_7">راهنمای عضویت در وب سایت</string>
+	
+	<string name="item_id">شماره مطلب : </string>
+    <string name="item_title">عنوان مطلب : </string>
+    <string name="item_body">بدنه مطلب : </string>
+
+    <string name="test">تست تست تست تست</string>
+    <string name="icon">icon</string>
+    <string name="listbg">listbg</string>
+    
+    <string name="d_internet">خطا اتصال اینترنت</string>
+    <string name="d_internet_contact">برای استفاده از بخش تماس با ما، ابتدا باید به اینترنت وصل شوید.</string>
+    <string name="d_internet_image">برای لود شدن تصاویر از وب سایت، ابتدا باید به اینترنت وصل شوید.</string>
+
+</resources>
